@@ -8,7 +8,7 @@ Video tutorial: https://youtu.be/B0MueVvJSK4
 
 1. Run `git clone https://github.com/verygenericname/SSHRD_Script --recursive && cd SSHRD_Script`
 
-2. Run `./sshrd.sh <iOS version for ramdisk> TrollStore <uninstallable system app>`
+2. Run `./sshrd.sh iOS version for ramdisk TrollStore uninstallable system app`
     - Make sure to **not** include the `<>`
     - The uninstallable system app should be an app you don't need to use (e.g. Tips)
     - i.e. `./sshrd.sh 15.0 TrollStore Tips`
